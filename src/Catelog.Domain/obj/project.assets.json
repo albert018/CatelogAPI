@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\dotnetcore\\catelogapi\\src\\Catelog.Domain\\Catelog.Domain.csproj",
+      "projectUniqueName": "C:\\temp\\DotNetCore\\CatelogAPI\\src\\Catelog.Domain\\Catelog.Domain.csproj",
       "projectName": "Catelog.Domain",
-      "projectPath": "C:\\temp\\dotnetcore\\catelogapi\\src\\Catelog.Domain\\Catelog.Domain.csproj",
+      "projectPath": "C:\\temp\\DotNetCore\\CatelogAPI\\src\\Catelog.Domain\\Catelog.Domain.csproj",
       "packagesPath": "C:\\Users\\Albert\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\dotnetcore\\catelogapi\\src\\Catelog.Domain\\obj\\",
+      "outputPath": "C:\\temp\\DotNetCore\\CatelogAPI\\src\\Catelog.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Albert\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,6 +9,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.EntityFrameworkCore;
+using Catelog.Infrastructure;
+using Catelog.API.Extensions;
 
 namespace Catelog.API
 {
@@ -24,6 +27,9 @@ namespace Catelog.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddCatelogContext(Configuration.GetSection("DataSource:ConnectionString").Value);
+
             services.AddControllers();
         }
 

@@ -1,0 +1,11 @@
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\bin\Debug\netstandard2.1\Catelog.Infrastructure.deps.json
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\bin\Debug\netstandard2.1\Catelog.Infrastructure.dll
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\obj\Debug\netstandard2.1\Catelog.Infrastructure.AssemblyInfoInputs.cache
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\obj\Debug\netstandard2.1\Catelog.Infrastructure.AssemblyInfo.cs
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\bin\Debug\netstandard2.1\Catelog.Infrastructure.pdb
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\bin\Debug\netstandard2.1\Catelog.Domain.dll
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\bin\Debug\netstandard2.1\Catelog.Domain.pdb
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\obj\Debug\netstandard2.1\Catelog.Infrastructure.csprojAssemblyReference.cache
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\obj\Debug\netstandard2.1\Catelog.Infrastructure.csproj.CopyComplete
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\obj\Debug\netstandard2.1\Catelog.Infrastructure.dll
+C:\temp\DotNetCore\CatelogAPI\Catelog.Infrastructure\obj\Debug\netstandard2.1\Catelog.Infrastructure.pdb
